@@ -56,6 +56,7 @@ to add your name to the list below (in alphabetical order).
 * Sophie Morel (CNRS/ENS Lyon, FR)
 * Filippo A. E. Nuccio (Université de Lyon, UJM Saint-Étienne, FR)
 * Andrew O'Desky (University of Michigan, US)
+* Samuel Ortiz (University of Seville, ESP)
 * Dmitrii V. Pasechnik (University of Oxford, UK)
 * Silvain Rideau-Kikuchi (CNRS, Université de Paris, FR)
 * Tony Scholl (University of Cambridge, UK)
